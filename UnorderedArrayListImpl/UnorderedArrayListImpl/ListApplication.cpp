@@ -19,9 +19,9 @@ L.ShowData ();
 
 //List S;
 //
-//S.Insert ("musa"); S.Insert ("lucky"); S.Insert ("james");
+//S.Insert ("nobuhle"); S.Insert ("bongani"); S.Insert ("ancobe");
 //S.ShowData ();
-//S.Delete ("james"); 
+//S.Delete ("ancobe"); 
 //S.ShowData ();
 
 std::cin.get();	
